@@ -1,0 +1,15 @@
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\bin\Debug\net8.0\VEEAM-TESTTASK.exe
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\bin\Debug\net8.0\VEEAM-TESTTASK.deps.json
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\bin\Debug\net8.0\VEEAM-TESTTASK.runtimeconfig.json
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\bin\Debug\net8.0\VEEAM-TESTTASK.dll
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\bin\Debug\net8.0\VEEAM-TESTTASK.pdb
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.csproj.ResolveComReference.cache
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.AssemblyInfoInputs.cache
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.AssemblyInfo.cs
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.csproj.CoreCompileInputs.cache
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.dll
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\refint\VEEAM-TESTTASK.dll
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.pdb
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\VEEAM-TESTTASK.genruntimeconfig.cache
+E:\Projects\C# Stuff\StudyProject\VEEAM-TESTTASK\obj\Debug\net8.0\ref\VEEAM-TESTTASK.dll
